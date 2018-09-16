@@ -4,6 +4,12 @@ height: 100px;
 background-color:red;
 position: absolute;
 top: 10px;
+text-transform: uppercase;
+color: blue;
+text-align: center;
+border-width: 5px;
+border-style:solid;
+border-color: green;
 }
 .toka {
 width: 200px;
@@ -12,8 +18,20 @@ background-color: yellow;
 position: absolute;
 top: 10px;
 left: 250px;
+color: blue;
+border-style: solid;
+border-color: red;
+border-width: 5px;
+text-transform: uppercase;
+text-align: center;
 }
 .kolmas {
+color:blue;
+border-style: solid;
+border-color: yellow;
+bordee width: 5px;
+text-transform: uppercase;
+text-align: center;
 width: 200px;
 height: 100px;
 background-color: green;
