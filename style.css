@@ -1,9 +1,20 @@
-p {color: crimson; }
+body {
 
-h1 {color: blue; }
+padding-left: 120px;
+padding-top: 20px;
+color: #555;
+align: center;
 
-h2 {color: crimson; }
+}
 
-ul {color: pink; }
+p {
+max-width: 50em;
+ }
 
-#loppu {color: red; }
+h1 {color: #333; }
+
+h2 {color: #333; }
+
+ul {color: #333; }
+
+#loppu {color: black; }
